@@ -1,0 +1,8 @@
+{
+  "id": "word-count",
+  "name": "Word Count",
+  "version": "1.0.0",
+  "description": "Live word, character, and reading time stats in the status bar. Detailed breakdown via command palette.",
+  "author": "Jace Sleeman",
+  "main": "main.js"
+}

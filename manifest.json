@@ -1,0 +1,17 @@
+{
+  "name": "NoterivPlugins",
+  "description": "Community plugin repository for Noteriv",
+  "version": "1.0.0",
+  "author": "Jace Sleeman",
+  "license": "MIT",
+  "plugins": [
+    {
+      "id": "word-count",
+      "name": "Word Count",
+      "description": "Live word, character, and reading time stats in the status bar. Detailed breakdown via command palette.",
+      "author": "Jace Sleeman",
+      "version": "1.0.0",
+      "dir": "plugins/word-count"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "id": "deck-review",
+  "name": "Deck Review",
+  "version": "0.7.0",
+  "description": "Review flashcards by deck (one deck per section). Pick decks by theme, tag or date, then run an SM-2 session in a dedicated sidebar panel. Shares progress with Noteriv's native review. Requires Noteriv v2.4.8+.",
+  "author": "chsimon",
+  "main": "main.js"
+}

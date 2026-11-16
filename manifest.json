@@ -12,6 +12,14 @@
       "author": "Jace Sleeman",
       "version": "1.0.0",
       "dir": "plugins/word-count"
+    },
+    {
+      "id": "deck-review",
+      "name": "Deck Review",
+      "description": "Review flashcards by deck (one deck per section). Pick decks by theme, tag or date, then run an SM-2 session in a dedicated sidebar panel. Shares progress with Noteriv's native review.",
+      "author": "chsimon",
+      "version": "0.7.0",
+      "dir": "plugins/deck-review"
     }
   ]
 }
